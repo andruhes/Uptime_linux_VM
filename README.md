@@ -5,11 +5,11 @@
 
 .env
 --------------------
-BITRIX1_PASSWORD="YourPassword123"
-BITRIX2_PASSWORD="YourPassword123"
-CRM1_PASSWORD="YourPassword123"
-CRM2_PASSWORD="YourPassword123"
-ZABBIX_PASSWORD="YourPassword123"
+BITRIX1_PASSWORD="YourPassword123"  
+BITRIX2_PASSWORD="YourPassword123"  
+CRM1_PASSWORD="YourPassword123"  
+CRM2_PASSWORD="YourPassword123"  
+ZABBIX_PASSWORD="YourPassword123"  
 --------------------
 
 © 2025 Маркушев А.М.
